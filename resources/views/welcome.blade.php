@@ -36,7 +36,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Laravel! - by SONG RUI LIN </div>
+                <div class="title">Hello Laravel! - by SONG RUI LIN 线上部署成功 </div>
             </div>
         </div>
     </body>
